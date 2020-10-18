@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://job.bytedance.com/society/",
+      "secure": false
+    }
+  }
